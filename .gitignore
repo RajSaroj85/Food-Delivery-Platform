@@ -1,13 +1,3 @@
 node_modules/
-dist/
-build/
-target/
 .env
-.env.*
-!.env.example
-
-# IDE / OS
-.vscode/
-.DS_Store
-Thumbs.db
-*.log
+dist/
