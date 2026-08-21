@@ -1,0 +1,6 @@
+{
+  "name": "FoodGo — Food Delivery & Restaurant Management Platform",
+  "description": "A comprehensive full-stack food delivery and restaurant management platform with multi-role workflows for Customers, Restaurants, Delivery Partners, and Admins.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
